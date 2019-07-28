@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: https://cpneesen.github.io
+title: ニー戦CP
+url: https://ponitema.github.io/cpneesen
